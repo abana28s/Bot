@@ -1,4 +1,4 @@
-# Encourage Bot
+# Inspiro Bot
 The encouraging Discord bot
 
 ## Usage
