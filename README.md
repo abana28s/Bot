@@ -1,4 +1,4 @@
-# Inspiro Bot
+# QuoteSync
 The encouraging Discord bot
 
 ## Usage
